@@ -1,4 +1,7 @@
 # VisualCryptographyforColoredImages
+Visual cryptography, an emerging cryptography technology, uses the characteristics of human vision to decrypt the encrypted images. It does not require the knowledge of cryptography for decryption. For security concerns, it also ensures that hackers cannot perceive any clues about a secret image from individual cover images. Though it has been developed only for binary images, there have been many papers and research articles about its use in grayscale and colored images. Our report explores one such method where an image is color decomposed to Cyan, Magenta, Yellow colors and then the visual cryptography is carried out for the individual decomposition.
+
+# Implementation
 There are 4 files in this project
 1.CMY_decomposition.py
 2.halftone.py
